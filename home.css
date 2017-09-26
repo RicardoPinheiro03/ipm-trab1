@@ -1,0 +1,51 @@
+#prin-cont {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30pt;
+}
+
+#min-cont {
+	font-family: 'Roboto', sans-serif;
+	font-size: 15pt;
+	margin-bottom: 20px;
+}
+
+#fct-text-1 {
+	color: #66ff33;
+}
+
+#fct-text-2 {
+	color: #0099ff;
+}
+
+#fct-text-3 {
+	color: #33ccff;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+#btwpc {
+	font-family: 'Roboto', sans-serif;
+	font-size: 15pt;
+}
+
+#tt-aln {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30pt;
+	margin-top:30px;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+#pic {
+	font-family: 'Roboto', sans-serif;
+}
